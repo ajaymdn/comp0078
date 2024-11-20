@@ -1,1 +1,1 @@
-# comp0078 coursework
+# comp0078
